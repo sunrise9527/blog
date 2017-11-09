@@ -78,6 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/sunrise9527/blog.git
+  repo: https://github.com/sunrise9527/sunrise9527.github.io.git
   branch: master
-  message: [message]
